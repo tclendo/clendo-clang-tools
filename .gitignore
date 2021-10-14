@@ -1,0 +1,7 @@
+# ignore cache from ccls
+.ccls-cache/
+
+# ignore emacs temp files
+*~
+*#
+
